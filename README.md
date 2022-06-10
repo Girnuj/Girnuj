@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
 
+![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girnuj&label=Profile%20views&color=0e75b6&style=flat" alt="girnuj" /> </p>
 
 - 🌱 I’m currently learning **Angular**
@@ -9,6 +11,28 @@
 - 💬 Ask me about **React, Redux, JavaScript, C#**
 
 - 📫 How to reach me **montenegrosamuel77@gmail.com**
+
+```js
+const samuel = {
+  Skills: {
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Postgres']},
+          {C#: ['.Net' , '.NetCore', 'SQL']}
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'Redux']},
+          {C#: ['Razor' , 'HTML', 'CSS']}
+          
+        ]
+    },
+  Proyects: [
+      {ApiVideoGames: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Postgres']},
+      {AppRubrosss: ['HTML', 'CSS', '.NetCore', 'SQL']}
+    ],
+  FutureTecnologies: ['Python', 'Go', 'Ruby'],
+  Aspirations: ['AI', 'Data Engineer', 'MachineLearning']
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
