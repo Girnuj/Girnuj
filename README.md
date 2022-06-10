@@ -53,7 +53,7 @@ const samuel = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girnuj&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="girnuj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girnuj&show_icons=true&theme=gruvbox&locale=en" alt="girnuj" /></p>
-
+&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girnuj&theme=highcontrast" alt="girnuj" /></p>
 
 
