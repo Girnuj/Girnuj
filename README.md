@@ -17,16 +17,15 @@ const samuel = {
   Skills: {
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Postgres']},
-          {C#: ['.Net' , '.NetCore', 'SQL']}
+          {C#: ['.Net', '.NetCore', 'SQL']}
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux']},
-          {C#: ['Razor' , 'HTML', 'CSS']}
-          
+          {C#: ['Razor', 'HTML', 'CSS']}       
         ]
     },
   Proyects: [
-      {ApiVideoGames: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Postgres']},
+      {Api-VideoGames: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Postgres']},
       {AppRubrosss: ['HTML', 'CSS', '.NetCore', 'SQL']}
     ],
   FutureTecnologies: ['Python', 'Go', 'Ruby'],
