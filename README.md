@@ -49,7 +49,6 @@ const samuel = {
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 <h3> 📊GitHub Stats : </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girnuj&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="girnuj" /></p>
