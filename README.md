@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
 <h3 align="center">A passionate FullStack Developer from Argentina</h3>
@@ -23,7 +24,7 @@ const samuel = {
           {C#: ['.Net', '.NetCore', 'SQL']}
         ],
       FrontEnd: [
-          {JavaScript: ['React', 'Redux']},
+          {JavaScript: ['React', 'Redux', 'Styled Components']},
           {C#: ['Razor', 'HTML', 'CSS']}       
         ]
     },
