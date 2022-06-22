@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girnuj&label=Profile%20views&color=0e75b6&style=flat" alt="girnuj" /> </p>
 
 <h3><strong>🤓 About Me</strong></h3>
-<p><strong>I am a Full-Stack Developer and Software Developer</strong>, with more than <strong>1 year of experience in Web Application Development, both in the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
+<p><strong>I am a Full-Stack Developer and Software Developer</strong>, with more than <strong>2 year of experience in Web Application Development, both in the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 - 🌱 I’m currently learning **Angular**
 
