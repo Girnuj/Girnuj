@@ -20,7 +20,7 @@
 const samuel = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Postgres']},
+          {JavaScript: ['Node', 'Express', 'Sequelize', 'Postgres']},
           {C#: ['.Net', '.NetCore', 'SQL']}
         ],
       FrontEnd: [
@@ -29,7 +29,7 @@ const samuel = {
         ]
     },
   Proyects: [
-      {Api-VideoGames: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Postgres']},
+      {Api-VideoGames: ['React', 'Redux', 'Node', 'Express', 'Sequelize', 'Postgres']},
       {AppRubrosss: ['HTML', 'CSS', '.NetCore', 'SQL']}
     ],
   FutureTecnologies: ['Python', 'Go', 'Ruby'],
