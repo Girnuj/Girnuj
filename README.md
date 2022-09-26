@@ -21,7 +21,7 @@ const samuel = {
   Skills: {
       BackEnd: [
           {JavaScript: ['Node', 'Express', 'Sequelize', 'Postgres']},
-          {C#: ['.Net', '.NetCore', 'SQL']}
+          {C#: ['.Net6.0', 'SQL', 'C#10']}
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux', 'Styled Components']},
@@ -30,7 +30,7 @@ const samuel = {
     },
   Proyects: [
       {Api-VideoGames: ['React', 'Redux', 'Node', 'Express', 'Sequelize', 'Postgres']},
-      {AppRubrosss: ['HTML', 'CSS', '.NetCore', 'SQL']}
+      {AppRubrosss: ['HTML', 'CSS', '.Net6.0', 'SQL']}
     ],
   FutureTecnologies: ['Python', 'Go', 'Ruby'],
   Aspirations: ['AI', 'Data Engineer', 'MachineLearning'],
