@@ -52,14 +52,6 @@ const samuel = {
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-<h3> 📊GitHub Stats : </h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girnuj&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="girnuj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girnuj&show_icons=true&theme=gruvbox&locale=en" alt="girnuj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girnuj&theme=gruvbox" alt="girnuj" /></p>
-
 
 <!---
 Girnuj/Girnuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
